@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS303: Strategic Information Technology"
+course_description: "An exploration of how managers determine when new IT initiatives are necessary and how they should deploy them, focusing on the allocation and use of technology resources across an entire firm as part of the larger organizational strategy."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Electronic Business** <span id="4"></span> 
 *Today’s businesses must know how to compete online – it is as simple as
 that. In this unit you will learn what electronic commerce, or

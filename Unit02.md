@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS303: Strategic Information Technology"
+course_description: "An exploration of how managers determine when new IT initiatives are necessary and how they should deploy them, focusing on the allocation and use of technology resources across an entire firm as part of the larger organizational strategy."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: ERP Systems, Business Processes, and IT** <span
 id="2"></span> 
 *To obtain a competitive advantage with information technology requires

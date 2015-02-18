@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS303: Strategic Information Technology"
+course_description: "An exploration of how managers determine when new IT initiatives are necessary and how they should deploy them, focusing on the allocation and use of technology resources across an entire firm as part of the larger organizational strategy."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Technology Trends** <span id="5"></span> 
 *No course in the strategic use of information technology in business
 would be complete if it did not cover technology trends. These trends

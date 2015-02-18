@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS303: Strategic Information Technology"
+course_description: "An exploration of how managers determine when new IT initiatives are necessary and how they should deploy them, focusing on the allocation and use of technology resources across an entire firm as part of the larger organizational strategy."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Using Information for Decision Making** <span id="3"></span> 
 *Data is everywhere, but how can an organization leverage it for
 competitive advantage? The field of business intelligence studies how
